@@ -6,7 +6,11 @@
 
 	text-align: center;
 }
+body{
+	background-image:url("singam.jpg")
+}
 body,html{
+	
 	height: 100%;
 }
 
